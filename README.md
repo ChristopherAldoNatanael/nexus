@@ -1,20 +1,53 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Christopher Aldo Natanael
 
-This contains everything you need to run your app locally.
+Personal portfolio website built with modern web technologies.
 
-View your app in AI Studio: https://ai.studio/apps/819d1308-ceeb-43ac-9d7f-20cfd643e145
+## About
 
-## Run Locally
+Full Stack & Mobile Developer based in Sidoarjo, East Java, Indonesia. Building scalable and maintainable software solutions.
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- **Frontend:** React 19, TypeScript
+- **Styling:** Tailwind CSS
+- **Animation:** Motion
+- **Build:** Vite
+- **Icons:** Lucide React
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Start production server
+npm run start
+```
+
+## Features
+
+- Responsive design
+- Dark theme
+- Smooth animations
+- SEO optimized
+
+## License
+
+MIT
+
+---
+
+Built with ☕ in Sidoarjo
